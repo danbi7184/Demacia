@@ -1,7 +1,6 @@
 package proj.model.vo;
 
 import java.io.Serializable;
-// 테스트 수정
 public class Player implements Serializable {
 	/**
 	 * 
